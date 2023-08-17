@@ -22,10 +22,8 @@
 - ⏰ &nbsp;  When I'm free, I play sports, watch anime or play computer games or board games. Check out my [Shikimori](https://shikimori.me/Vladimir+Semenov5) and [Steam](https://steamcommunity.com/id/k1ttenz).
 </div>
 
-
-
-
-<details> 
+<div>
+  <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -69,5 +67,6 @@
       <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-19e5ff.svg?logo=goland&logoColor=white"></a>
   </p>
 </details>
+</div>
 
 </body>
