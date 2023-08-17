@@ -1,4 +1,5 @@
-
+<body>
+  
 <div id="badges" align="center">
   <a href="https://vk.com/k1tt3nz">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Vkontakte"/>
@@ -63,3 +64,5 @@
       <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-19e5ff.svg?logo=goland&logoColor=white"></a>
   </p>
 </details>
+
+</body>
