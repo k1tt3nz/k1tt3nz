@@ -33,7 +33,7 @@
 
   <p>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="ASP-Core (.Net)" src="https://img.shields.io/badge/ASP-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="ASP Core (.Net)" src="https://img.shields.io/badge/ASP-Core-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
