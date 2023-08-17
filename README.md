@@ -1,5 +1,6 @@
 
-<pre>
+<div align="center">
+	<pre>
             
  _    _      _ _                            _     _ 
 | |  | |    | | |                          | |   | |
@@ -10,6 +11,7 @@
                                                     
                                                     
 </pre>
+</div>
 
 <div id="badges" align="center">
   <a href="https://vk.com/k1tt3nz">
