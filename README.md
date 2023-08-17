@@ -17,7 +17,7 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I am currently actively learning new IT knowledge**
-- 🤝 &nbsp; I will be glad to be invited to develop various projects on the role of backend developer C#
+- 🤝 &nbsp; I would be glad to be invited to develop various projects as a backend developer in C# or participate in hackathons 
 - 🌱 &nbsp; I’m currently learning ASP.NET Core; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/pink_kittenz)
