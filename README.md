@@ -19,8 +19,7 @@
 - 🔭 &nbsp; I am currently actively learning new IT knowledge**
 - 🤝 &nbsp; I would be glad to be invited to develop various projects as a backend developer in C# or participate in hackathons 
 - 🌱 &nbsp; I’m currently learning ASP.NET Core; 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/pink_kittenz)
+- 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/pink_kittenz) or [VK](https://vk.com/k1tt3nz)
 - 📝 &nbsp; Checkout my resume (later)
 - ⏰ &nbsp;  When I'm free, I play sports, watch anime or play computer games or board games. Check out my [Shikimori](https://shikimori.me/Vladimir+Semenov5) and [Steam](https://steamcommunity.com/id/k1ttenz).
 
