@@ -22,7 +22,7 @@
       <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ak1tt3nz1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Ago"><img alt="GO" src="https://custom-icon-badges.demolab.com/badge/GO-19e5ff.svg?logo=cs2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Ago"><img alt="Golang" src="https://custom-icon-badges.demolab.com/badge/GO-19e5ff.svg?logo=cs2&logoColor=white"></a>
 </a>
       <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
