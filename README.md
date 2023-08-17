@@ -32,7 +32,7 @@
 
   <p>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="ASP (.Net)" src="https://img.shields.io/badge/ASP-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="ASP Core (.Net)" src="https://img.shields.io/badge/ASP-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -50,5 +50,6 @@
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-0078d7.svg?logo=visual-studio&logoColor=white"></a>
   </p>
 </details>
