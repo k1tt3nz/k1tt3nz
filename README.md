@@ -23,7 +23,6 @@
 </div>
 
 <div>
-  <details> 
   <h2 align="center">🛠️ My Favorite Tools 🛠️</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
