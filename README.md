@@ -17,10 +17,10 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I am currently actively learning new IT knowledge**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🤝 &nbsp; I will be glad to be invited to develop various projects on the role of backend developer C#
 - 🌱 &nbsp; I’m currently learning ASP.NET Core; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/pink_kittenz)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - ⏰ &nbsp;  When I'm free, I play sports, watch anime or play computer games or board games. Check out my [Shikimori](https://shikimori.me/Vladimir+Semenov5) and [Steam](https://steamcommunity.com/id/k1ttenz).
 
