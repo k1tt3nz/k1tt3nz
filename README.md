@@ -1,14 +1,4 @@
 
-
-<pre>
-				 _    _      _ _                            _     _ 
-				| |  | |    | | |                          | |   | |
-				| |__| | ___| | | ___   __      _____  _ __| | __| |
-				|  __  |/ _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` |
-				| |  | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |
-				|_|  |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|                                                 
-</pre>
-
 <div id="badges" align="center">
   <a href="https://vk.com/k1tt3nz">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Vkontakte"/>
