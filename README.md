@@ -11,8 +11,8 @@
 </div>
 <br>
 <div>
-  <h2 align="center"> 🧐 ~ More About Me ~ 🧐 </h2>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  <h2 align="center"> 🧐 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🧐 </h2>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="180px"/>
 
 - 🔭 &nbsp; I am currently actively learning new IT knowledge**
 - 🤝 &nbsp; I would be glad to be invited to develop various projects as a backend developer in C# or participate in hackathons 
