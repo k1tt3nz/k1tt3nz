@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qSzInkbcNJNz5jpY6b/giphy.gif" width="500"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,7 +16,7 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🔭 &nbsp; I am currently actively learning new IT knowledge**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
