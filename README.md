@@ -1,5 +1,5 @@
 
-<div align="center">
+<div id="badges" align="center">
 	<pre>
             
  _    _      _ _                            _     _ 
