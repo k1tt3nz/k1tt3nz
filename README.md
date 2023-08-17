@@ -21,7 +21,7 @@
 - 🌱 &nbsp; I’m currently learning ASP.NET Core; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/pink_kittenz)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my resume (later)
 - ⏰ &nbsp;  When I'm free, I play sports, watch anime or play computer games or board games. Check out my [Shikimori](https://shikimori.me/Vladimir+Semenov5) and [Steam](https://steamcommunity.com/id/k1ttenz).
 
 <details> 
