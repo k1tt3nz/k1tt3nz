@@ -28,27 +28,33 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-      <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ak1tt3nz1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Ago"><img alt="GO" src="https://custom-icon-badges.demolab.com/badge/GO-19e5ff.svg?logo=golang&logoColor=white"></a>
-</a>
+      <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-F89820.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ak1tt3nz+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="ASP (.Net)" src="https://img.shields.io/badge/ASP-Core-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring&logoColor=white"></a>
+      <a href="#"><img alt="Spring Data" src="https://img.shields.io/badge/Spring%20Data-6DB33F.svg?logo=spring&logoColor=white"></a>
+      <a href="#"><img alt="Spring Cloud" src="https://img.shields.io/badge/Spring%20Cloud-6DB33F.svg?logo=spring&logoColor=white"></a>
+      <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring%20Framework-6DB33F.svg?logo=spring&logoColor=white"></a>
+      <a href="#"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20.svg?logo=apache-kafka&logoColor=white"></a>
+      <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
+      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white"></a>
+      <a href="#"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-AC2A1A.svg?logo=lombok&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?logo=hibernate&logoColor=white"></a>
+      <a href="#"><img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-2962FF.svg?logo=liquibase&logoColor=white"></a>
+      <a href="#"><img alt="JDBC" src="https://img.shields.io/badge/JDBC-4479A1.svg?logo=java&logoColor=white"></a>
+      <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-005571.svg?logo=elasticsearch&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -58,11 +64,9 @@
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white"></a>
+      <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
-      <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-41d773.svg?logo=clion&logoColor=white"></a>
-      <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-19e5ff.svg?logo=goland&logoColor=white"></a>
   </p>
 </details>
 </div>
